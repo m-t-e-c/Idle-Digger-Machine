@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3525009724917318887
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3525009724917318888}
+  - component: {fileID: 3525009724917318889}
+  - component: {fileID: 7776638255144314019}
+  m_Layer: 0
+  m_Name: ResourcePile Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3525009724917318888
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3525009724917318887}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.37, y: 0, z: 30.26}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3525009724917318889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3525009724917318887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c640d910ea9e38143a6fbb7ab62d9ed5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSpawnTime: 5
+  maxSpawnTime: 20
+  spawnRadius: 2
+  resourcePiles:
+  - {fileID: 1396838580023373348, guid: bd0a87928d03a9c44a7249626384db02, type: 3}
+  - {fileID: 3990642660258590956, guid: 664b8e5dbbcb046499c98804452e9459, type: 3}
+  - {fileID: 4316153373471248279, guid: 594d99d4532dc5d479e18a470e6057c7, type: 3}
+  - {fileID: 6966499257104410038, guid: 7769e9f400bf09448a1051a0b8cd68e3, type: 3}
+  - {fileID: 4597242245207132641, guid: 11559b4b0853f4b40be7e40f4f41fb29, type: 3}
+  - {fileID: 5086906488966291860, guid: 70121452aedc2c14c8bb7da268c64739, type: 3}
+  startSpawnTimer: 0
+  wait: 0
+--- !u!135 &7776638255144314019
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3525009724917318887}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 5
+  m_Center: {x: 0, y: 0, z: 0}

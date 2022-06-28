@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gas tank
+* source:	https://sketchfab.com/3d-models/gas-tank-c377a038fbc54713bd0224f34c786947
+* author:	Wafelek (https://sketchfab.com/wafel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gas tank" (https://sketchfab.com/3d-models/gas-tank-c377a038fbc54713bd0224f34c786947) by Wafelek (https://sketchfab.com/wafel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

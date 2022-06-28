@@ -1,0 +1,11 @@
+Model Information:
+* title:	Treasure Chest Animation
+* source:	https://sketchfab.com/3d-models/treasure-chest-animation-9a0e32639f5b4b6eaed18532718c1085
+* author:	Matt Harris (https://sketchfab.com/MattHarris86)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Treasure Chest Animation" (https://sketchfab.com/3d-models/treasure-chest-animation-9a0e32639f5b4b6eaed18532718c1085) by Matt Harris (https://sketchfab.com/MattHarris86) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

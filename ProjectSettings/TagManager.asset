@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Joystick
+  - Settings
+  - SFX
+  - BGM
+  - Enemy
+  - Ground
+  - InputControl
+  - Audio
+  - Ambient
+  - Haptic
+  - Benefit
+  - Detriment
+  - ResourcePile
+  - FxTemporaire
+  - UpgradesPanel
+  - CameraContainer
+  - Crowbar
+  - EnemyWeapon
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Draggable
+  - Player
+  - Enemy
+  - ResourcePiles
+  - Resources
+  - Crowbar
+  - SubResource
+  - EnemyWeapon
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

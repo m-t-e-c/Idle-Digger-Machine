@@ -1,0 +1,1120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: CONTINUE
+      TermType: 0
+      Description: 
+      Languages:
+      - Devam Et
+      - Continue
+      - Seguir
+      - Fortfahren
+      - Continuez
+      - "\u0627\u0633\u062A\u0645\u0631"
+      - Blive Ved
+      - Doorgaan
+      - "\u7EE7\u7EED"
+      - "Pokra\u010Dovat"
+      - Nastaviti
+      - Nastaviti
+      - Jatkaa
+      - "\u039D\u03B1 \u03A3\u03C5\u03BD\u03B5\u03C7\u03AF\u03C3\u03B5\u03B9"
+      - "\u0A9A\u0ABE\u0AB2\u0AC1 \u0AB0\u0ABE\u0A96\u0ACB"
+      - "\u091C\u093E\u0930\u0940 \u0930\u0916\u0947\u0902"
+      - Folytatni
+      - Continua
+      - "\u7D99\u7D9A\u3059\u308B"
+      - "\uACC4\uC18D\uD558\uB2E4"
+      - "\u7EE7\u7EED"
+      - Melanjutkan
+      - Fortsette
+      - "Forts\xE4tta"
+      - "\u10D2\u10D0\u10D0\u10D2\u10E0\u10EB\u10D4\u10DA\u10D4"
+      - "\u05DC\u05B0\u05D4\u05B7\u05DE\u05E9\u05C1\u05B4\u05D9\u05DA"
+      - Kontyntynuj
+      - Prosseguir
+      - Prosseguir
+      - "Turpin\u0101t"
+      - "\u0627\u062F\u0627\u0645\u0647 \u0647\u06CC\u062F"
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0442\u044C"
+      - "\u041D\u0430\u0441\u0442\u0430\u0432\u0438"
+      - "Ti\u1EBFp T\u1EE5c"
+      - "\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E15\u0E48\u0E2D"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Current Level
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mevcut B\xF6l\xFCm"
+      - Current Level
+      - Nivel Actual
+      - Aktuelles Level
+      - Niveau Actuel
+      - "\u0627\u0644\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u062D\u0627\u0644\u064A"
+      - "Nuv\xE6rende Niveau"
+      - "Huidig \u200B\u200BNiveau"
+      - "\u5F53\u524D\u6C34\u5E73"
+      - "Sou\u010Dasn\xE1 \xDArove\u0148"
+      - Trenutna Razina
+      - Trenutni Nivo
+      - Nykyinen Taso
+      - "\u03A4\u03C1\u03AD\u03C7\u03BF\u03BD \u0395\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF"
+      - "\u0AB5\u0AB0\u0ACD\u0AA4\u0AAE\u0ABE\u0AA8 \u0AB8\u0ACD\u0AA4\u0AB0"
+      - "\u0935\u0930\u094D\u0924\u092E\u093E\u0928 \u0938\u094D\u0924\u0930"
+      - Jelenlegi Szint
+      - Livello Attuale
+      - "\u73FE\u5728\u306E\u30EC\u30D9\u30EB"
+      - "\uD604\uC7AC \uB808\uBCA8"
+      - "\u5F53\u524D\u6C34\u5E73"
+      - Level Saat Ini
+      - "N\xE5v\xE6rende Niv\xE5"
+      - "Nuvarande Niv\xE5"
+      - "\u10DB\u10D8\u10DB\u10D3\u10D8\u10DC\u10D0\u10E0\u10D4 \u10D3\u10DD\u10DC\u10D4"
+      - "\u05E9\u05DC\u05D1 \u05E0\u05D5\u05DB\u05D7\u05D9"
+      - Aktualny Poziom
+      - "N\xEDvel Atual"
+      - "N\xEDvel Atual"
+      - "Pa\u0161reiz\u0113jais L\u012Bmenis"
+      - "\u0633\u0637\u062D \u0641\u0639\u0644\u06CC"
+      - "\u0422\u0435\u043A\u0443\u0449\u0438\u0439 \u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+      - "\u0422\u0440\u0435\u043D\u0443\u0442\u043D\u0438 \u041D\u0438\u0432\u043E"
+      - "M\u1EE9c Hi\u1EC7n T\u1EA1i"
+      - "\u0E15\u0E2D\u0E19\u0E1B\u0E31\u0E08\u0E08\u0E38\u0E1A\u0E31\u0E19"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: EFFECTS
+      TermType: 0
+      Description: 
+      Languages:
+      - Efektler
+      - Effects
+      - Efectos
+      - Auswirkungen
+      - Effets
+      - "\u062A\u0623\u062B\u064A\u0631\u0627\u062A"
+      - Effekter
+      - Effecten
+      - "\u6548\u679C"
+      - Efekty
+      - "U\u010Dinci"
+      - Efekti
+      - Tehosteita
+      - "\u03A5\u03C0\u03AC\u03C1\u03C7\u03BF\u03BD\u03C4\u03B1"
+      - "\u0A85\u0AB8\u0AB0\u0ACB"
+      - "\u092A\u094D\u0930\u092D\u093E\u0935"
+      - "Hat\xE1sok"
+      - Effetti
+      - "\u52B9\u679C"
+      - "\uD6A8\uACFC"
+      - "\u6548\u679C"
+      - Efek
+      - Effekter
+      - Effekter
+      - "\u10D4\u10E4\u10D4\u10E5\u10E2\u10D4\u10D1\u10D8"
+      - "\u05D0\u05E4\u05E7\u05D8\u05D9\u05DD"
+      - Efekty
+      - Efeitos
+      - Efeitos
+      - Ietekmi
+      - "\u0627\u062B\u0631\u0627\u062A"
+      - "\u041F\u043E\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u044F"
+      - "\u0415\u0444\u0435\u043A\u0442\u0438"
+      - "C\xE1c Hi\u1EC7u \u1EE8ng"
+      - "\u0E40\u0E2D\u0E1F\u0E40\u0E1F\u0E01\u0E15\u0E4C"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: FONT
+      TermType: 9
+      Description: 
+      Languages:
+      - Poppins-SemiBold SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - NotoKufiArabic-VariableFont_wght SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - ZCOOLKuaiLe-Regular SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Roboto-Black SDF
+      - HindVadodara-SemiBold SDF
+      - Poppins-SemiBold SDF
+      - Roboto-Black SDF
+      - Roboto-Black SDF
+      - MochiyPopOne-Regular SDF
+      - NotoSansKR-Bold SDF
+      - ZCOOLKuaiLe-Regular SDF
+      - Roboto-Black SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Roboto-Black SDF
+      - OpenSans-VariableFont_wdth,wght SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Blue Highway BD SDF
+      - Shabnam-Medium SDF
+      - Roboto-Black SDF
+      - Roboto-Black SDF
+      - Roboto-Black SDF
+      - Mitr-Regular SDF
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: GAME PAUSED!
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oyun Duraklat\u0131ld\u0131!"
+      - Game Paused!
+      - "\xA1Juego Pausado!"
+      - Spiel Pausiert!
+      - Jeu En Pause!
+      - "\u062A\u0648\u0642\u0641\u062A \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629!"
+      - "Spillet Sat P\xE5 Pause!"
+      - Spel Gepauzeerd!
+      - "\u6E38\u620F\u6682\u505C\uFF01"
+      - Hra Pozastavena!
+      - Igra Pauzirana!
+      - Igra Pauzirana!
+      - Peli Keskeytetty!
+      - "\u03A4\u03BF \u03A0\u03B1\u03B9\u03C7\u03BD\u03AF\u03B4\u03B9 \u03A3\u03C4\u03B1\u03BC\u03AC\u03C4\u03B7\u03C3\u03B5!"
+      - "\u0AB0\u0AAE\u0AA4 \u0AA5\u0ACB\u0AAD\u0ABE\u0AB5\u0AC0!"
+      - "\u0916\u0947\u0932 \u0930\u094B\u0915\u093E \u0917\u092F\u093E!"
+      - "J\xE1t\xE9k Sz\xFCnetel!"
+      - Gioco In Pausa!
+      - "\u30B2\u30FC\u30E0\u304C\u4E00\u6642\u505C\u6B62\u3057\u307E\u3057\u305F\uFF01"
+      - "\uAC8C\uC784\uC774 \uC77C\uC2DC \uC911\uC9C0\uB418\uC5C8\uC2B5\uB2C8\uB2E4!"
+      - "\u6E38\u620F\u6682\u505C\uFF01"
+      - Permainan Dihentikan!
+      - Spillet Stoppet!
+      - Spelet Pausat!
+      - "\u10D7\u10D0\u10DB\u10D0\u10E8\u10D8 \u10E8\u10D4\u10E9\u10D4\u10E0\u10D4\u10D1\u10E3\u10DA\u10D8\u10D0!"
+      - "\u05D4\u05E4\u05E1\u05E7\u05EA \u05DE\u05E9\u05D7\u05E7!"
+      - Gra Wstrzymana!
+      - Jogo Pausado!
+      - Jogo Pausado!
+      - "Sp\u0113le Aptur\u0113ta!"
+      - "\u0628\u0627\u0632\u06CC \u0645\u062A\u0648\u0642\u0641 \u0634\u062F!"
+      - "\u0418\u0433\u0440\u0430 \u041F\u0440\u0438\u043E\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u0430!"
+      - "\u0418\u0433\u0440\u0430 \u041F\u0430\u0443\u0437\u0438\u0440\u0430\u043D\u0430!"
+      - "T\u1EA1m D\u1EEBng Tr\xF2 Ch\u01A1i!"
+      - "\u0E40\u0E01\u0E21\u0E2B\u0E22\u0E38\u0E14\u0E0A\u0E31\u0E48\u0E27\u0E04\u0E23\u0E32\u0E27!"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: HAPTICS
+      TermType: 0
+      Description: 
+      Languages:
+      - Haptik
+      - Haptics
+      - "H\xE1pticos"
+      - Haptik
+      - Haptique
+      - "\u0627\u0644\u0644\u0645\u0633"
+      - Haptik
+      - Haptiek
+      - "\u89E6\u89C9"
+      - Haptika
+      - Haptike
+      - Haptici
+      - Haptiikkaa
+      - "\u0391\u03C0\u03C4\u03B9\u03BA\u03AC"
+      - "\u0AB9\u0AC7\u0AAA\u0ACD\u0A9F\u0ABF\u0A95\u0ACD\u0AB8"
+      - "\u0939\u0948\u092A\u094D\u091F\u093F\u0915\u094D\u0938"
+      - Haptikusok
+      - Tattile
+      - "\u89E6\u899A"
+      - "\uD585\uD2F1"
+      - "\u89E6\u89C9"
+      - Haptik
+      - Haptics
+      - Haptik
+      - "\u10F0\u10D0\u10DE\u10E2\u10D8\u10D9\u10D4\u10D1\u10D8"
+      - "\u05D4\u05E4\u05D8\u05D9\u05E7\u05D4"
+      - Haptyka
+      - "H\xE1ptica"
+      - "H\xE1ptica"
+      - Haptika
+      - "\u0644\u0645\u0633\u06CC"
+      - "\u0422\u0430\u043A\u0442\u0438\u043B\u044C\u043D\u044B\u0435 \u041E\u0449\u0443\u0449\u0435\u043D\u0438\u044F"
+      - "\u0425\u0430\u043F\u0442\u0438\u0446\u0438"
+      - Haptics
+      - "\u0E2A\u0E31\u0E21\u0E1C\u0E31\u0E2A\u0E44\u0E14\u0E49"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: HIGH
+      TermType: 0
+      Description: 
+      Languages:
+      - "Y\xFCksek"
+      - High
+      - Alto
+      - Hoch
+      - Haut
+      - "\u0645\u062A\u0648\u0633\u0637"
+      - "H\xF8j"
+      - Hoog
+      - "\u9AD8\u7684"
+      - "Vysok\xFD"
+      - Visoka
+      - Visoko
+      - Korkea
+      - "\u03A5\u03C8\u03B7\u03BB\u03CC\u03C2"
+      - "\u0A89\u0A9A\u0ACD\u0A9A"
+      - "\u0909\u091A\u094D\u091A"
+      - Magas
+      - Alto
+      - "\u9AD8\u3044"
+      - "\uB192\uC740"
+      - "\u9AD8\u7684"
+      - Tinggi
+      - "H\xF8y"
+      - "H\xF6g"
+      - "\u10DB\u10D0\u10E6\u10D0\u10DA\u10D8"
+      - "\u05D2\u05B8\u05D1\u05D5\u05B9\u05D4\u05B7"
+      - Wysoki
+      - Alto
+      - Alto
+      - Augsts
+      - "\u0628\u0627\u0644\u0627"
+      - "\u0412\u044B\u0441\u043E\u043A\u0438\u0439"
+      - "\u0412\u0438\u0441\u043E\u043A\u0430"
+      - Cao
+      - "\u0E21\u0E31\u0E18\u0E22\u0E21"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: LEVEL COMPLETED!
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xF6l\xFCm Tamamland\u0131!"
+      - Level Completed!
+      - "\xA1Nivel Completado!"
+      - Level Abgeschlossen!
+      - "Niveau Termin\xE9 !"
+      - "\u0627\u0643\u062A\u0645\u0627\u0644 \u0627\u0644\u0645\u0633\u062A\u0648\u0649!"
+      - Niveau Afsluttet!
+      - Niveau Voltooid!
+      - "\u5173\u5361\u5B8C\u6210\uFF01"
+      - "\xDArove\u0148 Dokon\u010Dena!"
+      - "Razina Zavr\u0161ena!"
+      - "Nivo Zavr\u0161en!"
+      - Taso Suoritettu!
+      - "\u03A4\u03BF \u0395\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF \u039F\u03BB\u03BF\u03BA\u03BB\u03B7\u03C1\u03CE\u03B8\u03B7\u03BA\u03B5!"
+      - "\u0AB8\u0ACD\u0AA4\u0AB0 \u0AAA\u0AC2\u0AB0\u0ACD\u0AA3!"
+      - "\u0938\u094D\u0924\u0930 \u092A\u0941\u0930\u094D\u0923!"
+      - "Szint Teljes\xEDtve!"
+      - Livello Completato!
+      - "\u30EC\u30D9\u30EB\u5B8C\u4E86\uFF01"
+      - "\uB808\uBCA8 \uC644\uB8CC!"
+      - "\u5173\u5361\u5B8C\u6210\uFF01"
+      - Level Selesai!
+      - "Niv\xE5 Fullf\xF8rt!"
+      - "Niv\xE5n Avklarad!"
+      - "\u10D3\u10DD\u10DC\u10D4 \u10D3\u10D0\u10E1\u10E0\u10E3\u10DA\u10D3\u10D0!"
+      - "\u05D4\u05E9\u05DC\u05D1 \u05D4\u05D5\u05E9\u05DC\u05DD!"
+      - "Poziom Uko\u0144czony!"
+      - "N\xEDvel Completo!"
+      - "N\xEDvel Completo!"
+      - "L\u012Bmenis Pabeigts!"
+      - "\u0645\u0631\u062D\u0644\u0647 \u06A9\u0627\u0645\u0644 \u0634\u062F!"
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u041F\u0440\u043E\u0439\u0434\u0435\u043D!"
+      - "\u041D\u0438\u0432\u043E \u0417\u0430\u0432\u0440\u0448\u0435\u043D!"
+      - "C\u1EA5p \u0110\u1ED9 \u0110\xE3 Ho\xE0n Th\xE0nh!"
+      - "\u0E20\u0E32\u0E04\u0E40\u0E2A\u0E23\u0E47\u0E08!"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: LEVEL FAILED!
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xF6l\xFCm Ge\xE7ilemedi!"
+      - Level Failed!
+      - "\xA1Nivel Fracasado!"
+      - Level Gescheitert!
+      - "Niveau \xC9chou\xE9!"
+      - "\u0641\u0634\u0644 \u0627\u0644\u0645\u0633\u062A\u0648\u0649!"
+      - Niveau Mislykkedes!
+      - Level Niet Gehaald!
+      - "\u7B49\u7EA7\u5931\u8D25\uFF01"
+      - "Level Nedokon\u010Den!"
+      - Razina Nije Uspjela!
+      - Nivo Nije Uspio!
+      - "Taso H\xE4vitty!"
+      - "\u03A4\u03BF \u0395\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF \u0391\u03C0\u03AD\u03C4\u03C5\u03C7\u03B5!"
+      - "\u0AB8\u0ACD\u0AA4\u0AB0 \u0AA8\u0ABF\u0AB7\u0ACD\u0AAB\u0AB3!"
+      - "\u0932\u0947\u0935\u0932 \u0935\u093F\u092B\u0932!"
+      - "A Szint Nem Siker\xFClt!"
+      - Livello Fallito!
+      - "\u30EC\u30D9\u30EB\u304C\u5931\u6557\u3057\u307E\u3057\u305F\uFF01"
+      - "\uB808\uBCA8 \uC2E4\uD328!"
+      - "\u7B49\u7EA7\u5931\u8D25\uFF01"
+      - Tingkat Gagal!
+      - "Niv\xE5 Feilet!"
+      - "Niv\xE5 Misslyckad!"
+      - "\u10D3\u10DD\u10DC\u10D4 \u10E9\u10D0\u10D8\u10E8\u10D0\u10DA\u10D0!"
+      - "\u05D4\u05E8\u05DE\u05D4 \u05E0\u05DB\u05E9\u05DC\u05D4!"
+      - Poziom Nieudany!
+      - "N\xEDvel Falhado!"
+      - "N\xEDvel Falhado!"
+      - "L\u012Bmenis Neizdev\u0101s!"
+      - "\u0633\u0637\u062D \u0634\u06A9\u0633\u062A \u062E\u0648\u0631\u062F!"
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u041F\u0440\u043E\u0432\u0430\u043B\u0435\u043D!"
+      - "\u041D\u0438\u0432\u043E \u041D\u0438\u0458\u0435 \u0423\u0441\u043F\u0435\u043E!"
+      - "C\u1EA5p \u0110\u1ED9 Th\u1EA5t B\u1EA1i!"
+      - "\u0E2A\u0E48\u0E27\u0E19\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E1C\u0E48\u0E32\u0E19!"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: LOW
+      TermType: 0
+      Description: 
+      Languages:
+      - "D\xFC\u015F\xFCk"
+      - Low
+      - Bajo
+      - Niedrig
+      - Meugler
+      - "\u0642\u0644\u064A\u0644"
+      - Lav
+      - Laag
+      - "\u4F4E\u7684"
+      - "N\xEDzk\xFD"
+      - Nisko
+      - Nisko
+      - Matala
+      - "\u03A7\u03B1\u03BC\u03B7\u03BB\u03CC\u03C2"
+      - "\u0AA8\u0AC0\u0A9A\u0AC1\u0A82"
+      - "\u0915\u092E"
+      - Alacsony
+      - Basso
+      - "\u4F4E\u3044"
+      - "\uB0AE\uC740"
+      - "\u4F4E\u7684"
+      - Rendah
+      - Lav
+      - "L\xE5g"
+      - "\u10D3\u10D0\u10D1\u10D0\u10DA\u10D8"
+      - "\u05E0\u05B8\u05DE\u05D5\u05BC\u05DA"
+      - Niski
+      - Baixo
+      - Baixo
+      - Zems
+      - "\u06A9\u0645"
+      - "\u041D\u0438\u0437\u043A\u0438\u0439"
+      - "\u041D\u0438\u0441\u043A\u043E"
+      - "Th\u1EA5p"
+      - "\u0E15\u0E48\u0E33"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Level
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xF6l\xFCm"
+      - Level
+      - Nivel
+      - Eben
+      - Niveau
+      - "\u0645\u0633\u062A\u0648\u0649"
+      - Niveau
+      - Peil
+      - "\u7B49\u7EA7"
+      - "\xDArove\u0148"
+      - Razini
+      - Nivo
+      - Taso
+      - "\u0395\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF"
+      - "\u0AB8\u0ACD\u0AA4\u0AB0"
+      - "\u0938\u094D\u0924\u0930"
+      - Szint
+      - Livello
+      - "\u30EC\u30D9\u30EB"
+      - "\uC218\uC900"
+      - "\u7B49\u7EA7"
+      - Tingkat
+      - "Niv\xE5"
+      - "Niv\xE5"
+      - "\u10D3\u10DD\u10DC\u10D4"
+      - "\u05E8\u05B8\u05DE\u05B8\u05D4"
+      - Poziom
+      - "N\xEDvel"
+      - "N\xEDvel"
+      - "L\u012Bmen\u012B"
+      - "\u0645\u0631\u062D\u0644\u0647"
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+      - "\u041D\u0438\u0432\u043E"
+      - "C\u1EA5p \u0110\u1ED9"
+      - "\u0E2A\u0E48\u0E27\u0E19"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: MUSIC
+      TermType: 0
+      Description: 
+      Languages:
+      - "M\xFCzik"
+      - Music
+      - "M\xFAsica"
+      - Musik
+      - 
+      - "\u0645\u0648\u0633\u064A\u0642\u0649"
+      - Musik
+      - Muziek
+      - "\u97F3\u4E50"
+      - Hudba
+      - Glazba, Muzika
+      - Muzika
+      - Musiikkia
+      - "\u039C\u039F\u03A5\u03A3\u0399\u039A\u0397"
+      - "\u0AB8\u0A82\u0A97\u0AC0\u0AA4"
+      - "\u0938\u0902\u0917\u0940\u0924"
+      - Zene
+      - Musica
+      - "\u97F3\u697D"
+      - "\uC74C\uC545"
+      - "\u97F3\u4E50"
+      - 
+      - Musikk
+      - Musik
+      - "\u10DB\u10E3\u10E1\u10D8\u10D9\u10D0"
+      - "\u05DE\u05D5\u05BC\u05E1\u05B4\u05D9\u05E7\u05B8\u05D4"
+      - Muzyka
+      - "M\xFAsica"
+      - "M\xFAsica"
+      - "M\u016Bzika"
+      - "\u0645\u0648\u0633\u06CC\u0642\u06CC"
+      - 
+      - 
+      - 
+      - "\u0E14\u0E19\u0E15\u0E23\u0E35"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: No ads available currently, Please check back later
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u015Eu anda mevcut reklam yok,\nL\xFCtfen daha sonra tekrar kontrol edin"
+      - 'No ads available currently,
+
+        Please check back later'
+      - "No hay anuncios disponibles actualmente,\nPor favor, vuelva m\xE1s tarde"
+      - "Derzeit keine Anzeigen verf\xFCgbar,\nBitte schauen Sie sp\xE4ter noch einmal
+        vorbei"
+      - 'Aucune annonce disponible actuellement,
+
+        Veuillez revenir plus tard'
+      - "\u0644\u0627 \u062A\u0648\u062C\u062F \u0625\u0639\u0644\u0627\u0646\u0627\u062A
+        \u0645\u062A\u0627\u062D\u0629 \u062D\u0627\u0644\u064A\u064B\u0627 \u060C\n\u064A\u0631\u062C\u0649
+        \u0627\u0644\u062A\u062D\u0642\u0642 \u0645\u0631\u0629 \u0623\u062E\u0631\u0649
+        \u0641\u064A \u0648\u0642\u062A \u0644\u0627\u062D\u0642"
+      - "Ingen tilg\xE6ngelige annoncer i \xF8jeblikket,\nKom venligst tilbage senere"
+      - 'Momenteel geen advertenties beschikbaar,
+
+        Kom later terug'
+      - "\u76EE\u524D\u6CA1\u6709\u53EF\u7528\u7684\u5E7F\u544A\uFF0C\n\u8BF7\u7A0D\u540E\u518D\u56DE\u6765\u67E5\u770B"
+      - "Moment\xE1ln\u011B nejsou dostupn\xE9 \u017E\xE1dn\xE9 inzer\xE1ty,\nVra\u0165te
+        se pros\xEDm pozd\u011Bji"
+      - 'Trenutno nema dostupnih oglasa,
+
+        Molimo provjerite kasnije'
+      - 'Trenutno nema dostupnih oglasa,
+
+        Molimo provjerite kasnije'
+      - "Ei mainoksia t\xE4ll\xE4 hetkell\xE4 saatavilla,\nTarkista my\xF6hemmin
+        uudelleen"
+      - "\u0394\u03B5\u03BD \u03C5\u03C0\u03AC\u03C1\u03C7\u03BF\u03C5\u03BD \u03B4\u03B9\u03B1\u03B8\u03AD\u03C3\u03B9\u03BC\u03B5\u03C2
+        \u03B4\u03B9\u03B1\u03C6\u03B7\u03BC\u03AF\u03C3\u03B5\u03B9\u03C2 \u03B1\u03C5\u03C4\u03AE\u03BD
+        \u03C4\u03B7 \u03C3\u03C4\u03B9\u03B3\u03BC\u03AE,\n\u0395\u03BB\u03AD\u03B3\u03BE\u03C4\u03B5
+        \u03BE\u03B1\u03BD\u03AC \u03B1\u03C1\u03B3\u03CC\u03C4\u03B5\u03C1\u03B1"
+      - "\u0AB9\u0ABE\u0AB2\u0AAE\u0ABE\u0A82 \u0A95\u0ACB\u0A88 \u0A9C\u0ABE\u0AB9\u0AC7\u0AB0\u0ABE\u0AA4\u0ACB
+        \u0A89\u0AAA\u0AB2\u0AAC\u0ACD\u0AA7 \u0AA8\u0AA5\u0AC0,\n\u0A95\u0AC3\u0AAA\u0ABE
+        \u0A95\u0AB0\u0AC0\u0AA8\u0AC7 \u0AAA\u0A9B\u0AC0\u0AA5\u0AC0 \u0AAB\u0AB0\u0AC0
+        \u0AA4\u0AAA\u0ABE\u0AB8\u0ACB"
+      - "\u0935\u0930\u094D\u0924\u092E\u093E\u0928 \u092E\u0947\u0902 \u0915\u094B\u0908
+        \u0935\u093F\u091C\u094D\u091E\u093E\u092A\u0928 \u0909\u092A\u0932\u092C\u094D\u0927
+        \u0928\u0939\u0940\u0902 \u0939\u0948,\n\u0915\u0943\u092A\u092F\u093E \u092B\u093F\u0930
+        \u0938\u0947 \u092C\u093E\u0926 \u092E\u0947\u0902 \u091C\u093E\u0901\u091A
+        \u0915\u0930\u0947\u0902"
+      - "Jelenleg nincs el\xE9rhet\u0151 hirdet\xE9s,\nK\xE9rj\xFCk, n\xE9zzen vissza
+        k\xE9s\u0151bb"
+      - "Nessun annuncio disponibile al momento,\nPer favore controllare pi\xF9 tardi"
+      - "\u73FE\u5728\u5229\u7528\u53EF\u80FD\u306A\u5E83\u544A\u306F\u3042\u308A\u307E\u305B\u3093\u3001\n\u5F8C\u3067\u3082\u3046\u4E00\u5EA6\u78BA\u8A8D\u3057\u3066\u304F\u3060\u3055\u3044"
+      - "\uD604\uC7AC \uC0AC\uC6A9\uD560 \uC218 \uC788\uB294 \uAD11\uACE0\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4.\n\uB098\uC911\uC5D0
+        \uB2E4\uC2DC \uD655\uC778\uD574 \uC8FC\uC138\uC694"
+      - "\u76EE\u524D\u6CA1\u6709\u53EF\u7528\u7684\u5E7F\u544A\uFF0C\n\u8BF7\u7A0D\u540E\u518D\u56DE\u6765\u67E5\u770B"
+      - 'Tidak ada iklan yang tersedia saat ini,
+
+        Silakan periksa kembali
+        nanti'
+      - "Ingen annonser tilgjengelig for \xF8yeblikket,\nKom tilbake senere"
+      - "Inga annonser tillg\xE4ngliga f\xF6r n\xE4rvarande,\nV\xE4nligen \xE5terkom
+        senare"
+      - "\u10D0\u10DB\u10DF\u10D0\u10DB\u10D0\u10D3 \u10D0\u10E0 \u10D0\u10E0\u10D8\u10E1
+        \u10EE\u10D4\u10DA\u10DB\u10D8\u10E1\u10D0\u10EC\u10D5\u10D3\u10DD\u10DB\u10D8
+        \u10E0\u10D4\u10D9\u10DA\u10D0\u10DB\u10D0,\n\u10D2\u10D7\u10EE\u10DD\u10D5\u10D7,
+        \u10D2\u10D0\u10D3\u10D0\u10D0\u10DB\u10DD\u10EC\u10DB\u10DD\u10D7 \u10DB\u10DD\u10D2\u10D5\u10D8\u10D0\u10DC\u10D4\u10D1\u10D8\u10D7"
+      - "\u05D0\u05D9\u05DF \u05DE\u05D5\u05D3\u05E2\u05D5\u05EA \u05D6\u05DE\u05D9\u05E0\u05D5\u05EA
+        \u05DB\u05E8\u05D2\u05E2,\n\u05D0\u05E0\u05D0 \u05D1\u05D3\u05D5\u05E7 \u05E9\u05D5\u05D1
+        \u05DE\u05D0\u05D5\u05D7\u05E8 \u05D9\u05D5\u05EA\u05E8"
+      - "Aktualnie brak reklam,\nSprawd\u017A ponownie p\xF3\u017Aniej"
+      - "Nenhum an\xFAncio dispon\xEDvel no momento,\nPor favor, volte mais tarde"
+      - "Nenhum an\xFAncio dispon\xEDvel no momento,\nPor favor, volte mais tarde"
+      - "Pa\u0161laik nav pieejama neviena rekl\u0101ma,\nL\u016Bdzu, p\u0101rbaudiet
+        v\u0113l\u0101k"
+      - "\u0647\u06CC\u0686 \u062A\u0628\u0644\u06CC\u063A\u06CC \u062F\u0631 \u062D\u0627\u0644
+        \u062D\u0627\u0636\u0631 \u0645\u0648\u062C\u0648\u062F \u0646\u06CC\u0633\u062A\u060C\n\u0644\u0637\u0641\u0627\u064B
+        \u0628\u0639\u062F\u0627\u064B \u062F\u0648\u0628\u0627\u0631\u0647 \u0628\u0631\u0631\u0633\u06CC
+        \u06A9\u0646\u06CC\u062F"
+      - "\u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F
+        \u043D\u0435\u0442 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u044B\u0445
+        \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0439,\n\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430,
+        \u0437\u0430\u0439\u0434\u0438\u0442\u0435 \u043F\u043E\u0437\u0436\u0435"
+      - "\u0422\u0440\u0435\u043D\u0443\u0442\u043D\u043E \u043D\u0435\u043C\u0430
+        \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0438\u0445 \u043E\u0433\u043B\u0430\u0441\u0430,\n\u041F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u0435
+        \u043F\u043E\u043D\u043E\u0432\u043E \u043A\u0430\u0441\u043D\u0438\u0458\u0435"
+      - "Hi\u1EC7n t\u1EA1i kh\xF4ng c\xF3 qu\u1EA3ng c\xE1o,\nVui l\xF2ng ki\u1EC3m
+        tra l\u1EA1i sau"
+      - "\u0E02\u0E13\u0E30\u0E19\u0E35\u0E49\u0E44\u0E21\u0E48\u0E21\u0E35\u0E42\u0E06\u0E29\u0E13\u0E32\n\u0E42\u0E1B\u0E23\u0E14\u0E01\u0E25\u0E31\u0E1A\u0E21\u0E32\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E20\u0E32\u0E22\u0E2B\u0E25\u0E31\u0E07"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PRIVACY POLICY
+      TermType: 0
+      Description: 
+      Languages:
+      - "Gizlilik Politikas\u0131"
+      - Privacy Policy
+      - "Pol\xEDtica De Privacidad"
+      - Datenschutz-Bestimmungen
+      - "Politique De Confidentialit\xE9"
+      - "\u0633\u064A\u0627\u0633\u0629 \u062E\u0627\u0635\u0629"
+      - Fortrolighedspolitik
+      - Privacybeleid
+      - "\u9690\u79C1\u653F\u7B56"
+      - "Z\xE1sady Ochrany Osobn\xEDch \xDAdaj\u016F"
+      - Politika Privatnosti
+      - Politika Privatnosti
+      - "Tietosuojak\xE4yt\xE4nt\xF6"
+      - "\u03A0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE \u0391\u03C0\u03BF\u03C1\u03C1\u03AE\u03C4\u03BF\u03C5"
+      - "\u0A97\u0ACB\u0AAA\u0AA8\u0AC0\u0AAF\u0AA4\u0ABE \u0AA8\u0AC0\u0AA4\u0ABF"
+      - "\u0917\u094B\u092A\u0928\u0940\u092F\u0924\u093E \u0928\u0940\u0924\u093F"
+      - "Adatv\xE9delmi Ir\xE1nyelvek"
+      - Politica Sulla Riservatezza
+      - "\u30D7\u30E9\u30A4\u30D0\u30B7\u30FC\u30DD\u30EA\u30B7\u30FC"
+      - "\uAC1C\uC778 \uC815\uBCF4 \uC815\uCC45"
+      - "\u9690\u79C1\u653F\u7B56"
+      - Rahasia Pribadi
+      - "Personvernerkl\xE6ring"
+      - Integritetspolicy
+      - "\u10D9\u10DD\u10DC\u10E4\u10D8\u10D3\u10D4\u10DC\u10EA\u10D8\u10D0\u10DA\u10E3\u10E0\u10DD\u10D1\u10D8\u10E1
+        \u10DE\u10DD\u10DA\u10D8\u10E2\u10D8\u10D9\u10D0"
+      - "\u05DE\u05D3\u05D9\u05E0\u05D9\u05D5\u05EA \u05E4\u05E8\u05D8\u05D9\u05D5\u05EA"
+      - "Polityka Prywatno\u015Bci"
+      - "Pol\xEDtica De Privacidade"
+      - "Pol\xEDtica De Privacidade"
+      - "Priv\u0101tuma Politika"
+      - "\u0633\u06CC\u0627\u0633\u062A \u062D\u0641\u0638 \u062D\u0631\u06CC\u0645
+        \u062E\u0635\u0648\u0635\u06CC"
+      - "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u041A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438"
+      - "\u041F\u0440\u0430\u0432\u0438\u043B\u0430 \u041E \u041F\u0440\u0438\u0432\u0430\u0442\u043D\u043E\u0441\u0442\u0438"
+      - "Ch\xEDnh S\xE1ch B\u1EA3o M\u1EADt"
+      - "\u0E19\u0E42\u0E22\u0E1A\u0E32\u0E22\u0E04\u0E27\u0E32\u0E21\u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E48\u0E27\u0E19\u0E15\u0E31\u0E27"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: QUALITY
+      TermType: 0
+      Description: 
+      Languages:
+      - Kalite
+      - Quality
+      - Calidad
+      - "Qualit\xE4t"
+      - "Qualit\xE9"
+      - "\u062C\u0648\u062F\u0629"
+      - Kvalitet
+      - Kwaliteit
+      - "\u8D28\u91CF"
+      - "Kvalitn\xED"
+      - Kvaliteta
+      - Kvaliteta
+      - Laatu
+      - "\u03A0\u03BF\u03B9\u03CC\u03C4\u03B7\u03C4\u03B1"
+      - "\u0A97\u0AC1\u0AA3\u0AB5\u0AA4\u0ACD\u0AA4\u0ABE"
+      - "\u0917\u0941\u0923\u0935\u0924\u094D\u0924\u093E"
+      - "Min\u0151s\xE9g"
+      - "Qualit\xE0"
+      - "\u54C1\u8CEA"
+      - "\uD488\uC9C8"
+      - "\u8D28\u91CF"
+      - Kualitas
+      - Kvalitet
+      - Kvalitet
+      - "\u10EE\u10D0\u10E0\u10D8\u10E1\u10EE\u10D8\u10D0\u10DC\u10D8"
+      - "\u05D0\u05D9\u05DB\u05D5\u05EA"
+      - "Jako\u015B\u0107"
+      - Qualidade
+      - Qualidade
+      - "Kvalit\u0101ti"
+      - "\u06A9\u06CC\u0641\u06CC\u062A"
+      - "\u041A\u0430\u0447\u0435\u0441\u0442\u0432\u043E"
+      - "\u041A\u0432\u0430\u043B\u0438\u0442\u0435\u0442\u0430"
+      - "Ph\u1EA9m Ch\u1EA5t"
+      - "\u0E04\u0E38\u0E13\u0E20\u0E32\u0E1E"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RESTART
+      TermType: 0
+      Description: 
+      Languages:
+      - "Tekrar Ba\u015Flat"
+      - Restart
+      - Reiniciar
+      - Neustart
+      - "Red\xE9marrage"
+      - "\u0625\u0639\u0627\u062F\u0629 \u062A\u0634\u063A\u064A\u0644"
+      - Genstart
+      - Herstarten
+      - "\u91CD\u65B0\u5F00\u59CB"
+      - Restartovat
+      - Ponovno Pokrenuti
+      - Restart
+      - "Uudelleenk\xE4ynnist\xE4\xE4"
+      - "\u0395\u03C0\u03B1\u03BD\u03B5\u03BA\u03BA\u03AF\u03BD\u03B7\u03C3\u03B7"
+      - "\u0AAB\u0AB0\u0AC0 \u0AA5\u0AC0 \u0AB6\u0AB0\u0AC2 \u0A95\u0AB0\u0AB5\u0AC1\u0A82"
+      - "\u092A\u0941\u0928\u0903 \u0906\u0930\u0902\u092D \u0915\u0930\u0947\u0902"
+      - "\xDAjrakezd"
+      - Ricomincia
+      - "\u518D\u8D77\u52D5"
+      - "\uC7AC\uC2DC\uC791"
+      - "\u91CD\u65B0\u5F00\u59CB"
+      - Mengulang Kembali
+      - Omstart
+      - Omstart
+      - "\u10E0\u10D4\u10E1\u10E2\u10D0\u10E0\u10E2\u10D8"
+      - "\u05D0\u05EA\u05D7\u05D5\u05DC"
+      - Uruchom Ponownie
+      - Reiniciar
+      - Reiniciar
+      - "Restart\u0113t"
+      - "\u0631\u0627\u0647 \u0627\u0646\u062F\u0627\u0632\u06CC \u0645\u062C\u062F\u062F"
+      - "\u041D\u0430\u0447\u0430\u0442\u044C \u0421\u043D\u0430\u0447\u0430\u043B\u0430"
+      - "\u041F\u043E\u043D\u043E\u0432\u043E \u041F\u043E\u043A\u0440\u0435\u043D\u0443\u0442\u0438"
+      - "Kh\u1EDFi \u0110\u1ED9ng L\u1EA1i"
+      - "\u0E40\u0E23\u0E34\u0E48\u0E21\u0E15\u0E49\u0E19\u0E43\u0E2B\u0E21\u0E48"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RESUME
+      TermType: 0
+      Description: 
+      Languages:
+      - Devam Et
+      - Resume
+      - Reanudar
+      - Fortsetzen
+      - Continuer
+      - "\u0633\u064A\u0631\u0629 \u0630\u0627\u062A\u064A\u0629"
+      - Genoptag
+      - CV
+      - "\u6062\u590D"
+      - "\u017Divotopis"
+      - "\u017Divotopis"
+      - "\u017Divotopis"
+      - Jatkaa
+      - "\u0392\u0399\u039F\u0393\u03A1\u0391\u03A6\u0399\u039A\u039F"
+      - "\u0AAB\u0AB0\u0AC0 \u0AB6\u0AB0\u0AC1 \u0A95\u0AB0\u0AB5\u0AC1\u0A82"
+      - "\u092B\u093F\u0930 \u0936\u0941\u0930\u0942 \u0915\u0930\u0928\u093E"
+      - "\xD6n\xE9letrajz"
+      - Riprendere
+      - "\u5C65\u6B74\u66F8"
+      - "\uC7AC\uAC1C\uD558\uB2E4"
+      - "\u6062\u590D"
+      - Lanjut
+      - Gjenoppta
+      - "\xC5teruppta"
+      - "\u10D2\u10D0\u10D2\u10E0\u10EB\u10D4\u10DA\u10D4\u10D1\u10D0"
+      - "\u05E7\u05D5\u05E8\u05D5\u05EA \u05D7\u05D9\u05D9\u05DD"
+      - Wznawianie
+      - Retomar
+      - Retomar
+      - "Turpin\u0101t"
+      - "\u0627\u0632 \u0633\u0631\u06AF\u06CC\u0631\u06CC"
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+      - "\u0420\u0435\u0437\u0438\u043C\u0435"
+      - "B\u1EA3n T\xF3m T\u1EAFt"
+      - "\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E15\u0E48\u0E2D"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RETRY
+      TermType: 0
+      Description: 
+      Languages:
+      - Yeniden Dene
+      - Retry
+      - Rever
+      - Wiederholen
+      - Retenter
+      - "\u0623\u0639\u062F \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629"
+      - "Pr\xF8ve Igen"
+      - Probeer Het Opnieuw
+      - "\u91CD\u8BD5"
+      - Opakovat
+      - "Poku\u0161ajte Ponovno"
+      - "Poku\u0161aj Ponovo"
+      - "Yrit\xE4 Uudelleen"
+      - "\u039E\u03B1\u03BD\u03B1\u03B4\u03BF\u03BA\u03B9\u03BC\u03AC\u03C3\u03B5\u03C4\u03B5"
+      - "\u0AAB\u0AB0\u0AC0 \u0AAA\u0ACD\u0AB0\u0AAF\u0ABE\u0AB8 \u0A95\u0AB0\u0ACB"
+      - "\u092A\u0941\u0928: \u092A\u094D\u0930\u092F\u093E\u0938 \u0915\u0930\u0947\u0902"
+      - "Pr\xF3b\xE1lja \xDAjra"
+      - Riprovare
+      - "\u30EA\u30C8\u30E9\u30A4"
+      - "\uB2E4\uC2DC \uD574 \uBCF4\uB2E4"
+      - "\u91CD\u8BD5"
+      - Mencoba Kembali
+      - "Pr\xF8v P\xE5 Nytt"
+      - "F\xF6rs\xF6k Igen"
+      - "\u10EE\u10D4\u10DA\u10D0\u10EE\u10DA\u10D0 \u10E1\u10EA\u10D0\u10D3\u10D4"
+      - "\u05E0\u05E1\u05D4 \u05E9\u05D5\u05D1"
+      - "Spr\xF3bowa\u0107 Ponownie"
+      - Tente Novamente
+      - Tente Novamente
+      - "M\u0113\u0123iniet V\u0113lreiz"
+      - "\u062F\u0648\u0628\u0627\u0631\u0647 \u0627\u0645\u062A\u062D\u0627\u0646
+        \u06A9\u0646\u06CC\u062F"
+      - "\u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u044C \u041F\u043E\u043F\u044B\u0442\u043A\u0443"
+      - "\u041F\u043E\u043A\u0443\u0448\u0430\u0458 \u041F\u043E\u043D\u043E\u0432\u043E"
+      - "Th\u1EED L\u1EA1i"
+      - "\u0E25\u0E2D\u0E07\u0E2D\u0E35\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SELECT LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - "B\xF6l\xFCm Se\xE7"
+      - Select Level
+      - Selecciona El Nivel
+      - "Stufe Ausw\xE4hlen"
+      - Choisir Le Niveau
+      - "\u0627\u062E\u062A\u0627\u0631 \u0645\u0633\u062A\u0648\u0649"
+      - "V\xE6lg Niveau"
+      - Kies Niveau
+      - "\u9009\u62E9\u7EA7\u522B"
+      - "Vyberte \xDArove\u0148"
+      - Odaberite Razinu
+      - Izaberite Nivo
+      - Valitse Taso
+      - "\u0395\u03C0\u03B9\u03BB\u03AD\u03BE\u03C4\u03B5 \u0395\u03C0\u03AF\u03C0\u03B5\u03B4\u03BF"
+      - "\u0AB8\u0ACD\u0AA4\u0AB0 \u0AAA\u0AB8\u0A82\u0AA6 \u0A95\u0AB0\u0ACB"
+      - "\u0938\u094D\u0924\u0930 \u091A\u0941\u0928\u0947\u0902"
+      - "V\xE1lassza Ki A Szintet"
+      - Seleziona Livello
+      - "\u30EC\u30D9\u30EB\u3092\u9078\u629E"
+      - "\uB808\uBCA8 \uC120\uD0DD"
+      - "\u9009\u62E9\u7EA7\u522B"
+      - Pilih Tingkat
+      - "Velg Niv\xE5"
+      - "V\xE4lj Niv\xE5"
+      - "\u10D3\u10DD\u10DC\u10D8\u10E1 \u10D0\u10E0\u10E9\u10D4\u10D5\u10D0"
+      - "\u05D1\u05D7\u05E8 \u05E9\u05DC\u05D1"
+      - Wybierz Poziom
+      - "Selecione O N\xEDvel"
+      - "Selecione O N\xEDvel"
+      - "Izv\u0113lieties L\u012Bmeni"
+      - "\u0633\u0637\u062D \u0631\u0627 \u0627\u0646\u062A\u062E\u0627\u0628 \u06A9\u0646\u06CC\u062F"
+      - "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+      - "\u0418\u0437\u0430\u0431\u0435\u0440\u0438\u0442\u0435 \u041D\u0438\u0432\u043E"
+      - "Ch\u1ECDn C\u1EA5p \u0110\u1ED9"
+      - "\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E2B\u0E21\u0E27\u0E14"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SWIPE TO PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oynamak I\xE7in Kayd\u0131r\u0131n"
+      - Swipe To Play
+      - Desliza Para Jugar
+      - Zum Abspielen Wischen
+      - Glisser Pour Jouer
+      - "\u0627\u0646\u062A\u0642\u062F \u0644\u0644\u0639\u0628"
+      - Swipe For At Spille
+      - Veeg Om Te Spelen
+      - "\u6ED1\u52A8\u64AD\u653E"
+      - "P\u0159ehr\xE1vejte P\u0159ejet\xEDm Prstem"
+      - "Prije\u0111ite Prstom Za Igranje"
+      - Prevucite Za Igranje
+      - "Pyyhk\xE4ise Pelataksesi"
+      - "\u03A3\u03CD\u03C1\u03B5\u03C4\u03B5 \u0393\u03B9\u03B1 \u0391\u03BD\u03B1\u03C0\u03B1\u03C1\u03B1\u03B3\u03C9\u03B3\u03AE"
+      - "\u0AB0\u0AAE\u0AB5\u0ABE \u0AAE\u0ABE\u0A9F\u0AC7 \u0AB8\u0ACD\u0AB5\u0ABE\u0A87\u0AAA
+        \u0A95\u0AB0\u0ACB"
+      - "\u0916\u0947\u0932\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0938\u094D\u0935\u093E\u0907\u092A
+        \u0915\u0930\u0947\u0902"
+      - "Cs\xFAsztassa Az Ujj\xE1t A Lej\xE1tsz\xE1shoz"
+      - Scorri Per Giocare
+      - "\u30B9\u30EF\u30A4\u30D7\u3057\u3066\u518D\u751F"
+      - "\uC2A4\uC640\uC774\uD504\uD558\uC5EC \uC7AC\uC0DD"
+      - "\u6ED1\u52A8\u64AD\u653E"
+      - Geser Untuk Bermain
+      - "Sveip For \xC5 Spille"
+      - "Svep F\xF6r Att Spela"
+      - "\u10D2\u10D0\u10D3\u10D0\u10E4\u10E3\u10E0\u10EA\u10DA\u10D4\u10D7 \u10E1\u10D0\u10D7\u10D0\u10DB\u10D0\u10E8\u10DD\u10D3"
+      - "\u05D4\u05D7\u05DC\u05E7 \u05DB\u05D3\u05D9 \u05DC\u05E9\u05D7\u05E7"
+      - "Przesu\u0144 Palcem, Aby Zagra\u0107"
+      - Deslize Para Jogar
+      - Deslize Para Jogar
+      - "Velciet, Lai Sp\u0113l\u0113tu"
+      - "\u0628\u0631\u0627\u06CC \u067E\u062E\u0634\u060C \u0627\u0646\u06AF\u0634\u062A
+        \u062E\u0648\u062F \u0631\u0627 \u0628\u06A9\u0634\u06CC\u062F"
+      - "\u041F\u0440\u043E\u0432\u0435\u0434\u0438\u0442\u0435 \u041F\u0430\u043B\u044C\u0446\u0435\u043C,
+        \u0427\u0442\u043E\u0431\u044B \u0418\u0433\u0440\u0430\u0442\u044C"
+      - "\u041F\u0440\u0435\u0432\u0443\u0446\u0438\u0442\u0435 \u041F\u0440\u0441\u0442\u043E\u043C
+        \u0414\u0430 \u0411\u0438\u0441\u0442\u0435 \u0418\u0433\u0440\u0430\u043B\u0438"
+      - "Vu\u1ED1t \u0110\u1EC3 Ch\u01A1i"
+      - "\u0E1B\u0E31\u0E14\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E25\u0E48\u0E19"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP & HOLD
+      TermType: 0
+      Description: 
+      Languages:
+      - "Bas\u0131l\u0131 Tut"
+      - Tap & Hold
+      - Tocar Y Mantener
+      - Tippen & Halten
+      - Appuyez Et Maintenez
+      - "\u0627\u0644\u0635\u0646\u0628\u0648\u0631 \u0639\u0642\u062F"
+      - Tryk Og Hold
+      - Tikken En Vasthouden
+      - "\u70B9\u51FB\u5E76\u6309\u4F4F"
+      - "Klepn\u011Bte A Podr\u017Ete"
+      - "Dodirnite I Dr\u017Eite"
+      - "Dodirnite I Dr\u017Eite"
+      - "Napauta Ja Pid\xE4 Painettuna"
+      - "\u03A0\u03B1\u03C4\u03AE\u03C3\u03C4\u03B5 \u03A0\u03B1\u03C1\u03B1\u03C4\u03B5\u03C4\u03B1\u03BC\u03AD\u03BD\u03B1"
+      - "\u0A9F\u0AC7\u0AAA \u0A95\u0AB0\u0ACB \u0A85\u0AA8\u0AC7 \u0AAA\u0A95\u0AA1\u0AC0
+        \u0AB0\u0ABE\u0A96\u0ACB"
+      - "\u091F\u0948\u092A \u0915\u0930\u0915\u0947 \u0930\u0916\u0947\u0902"
+      - "\xC9rintse Meg \xC9s Tartsa Lenyomva"
+      - Tocca E Tieni Premuto
+      - "\u30BF\u30C3\u30D7\u30A2\u30F3\u30C9\u30DB\u30FC\u30EB\u30C9"
+      - "\uAE38\uAC8C \uD0ED"
+      - "\u70B9\u51FB\u5E76\u6309\u4F4F"
+      - Ketuk & Tahan
+      - Trykk Og Hold
+      - "Tryck Och H\xE5ll Ned"
+      - "\u10EE\u10D0\u10DC\u10D2\u10E0\u10EB\u10DA\u10D8\u10D5\u10D0\u10D3 \u10E8\u10D4\u10D4\u10EE\u10D4\u10D7"
+      - "\u05D4\u05E7\u05E9 \u05D5\u05D4\u05D7\u05D6\u05E7"
+      - Stuknij Przytrzymaj
+      - Toque E Segure
+      - Toque E Segure
+      - Pieskarieties Un Turiet
+      - "\u0636\u0631\u0628\u0647 \u0628\u0632\u0646\u06CC\u062F \u0648 \u0646\u06AF\u0647
+        \u062F\u0627\u0631\u06CC\u062F"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u0418 \u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0439\u0442\u0435"
+      - "\u0414\u043E\u0434\u0438\u0440\u043D\u0438\u0442\u0435 \u0418 \u0417\u0430\u0434\u0440\u0436\u0438\u0442\u0435"
+      - "Ch\u1EA1m V\xE0 Gi\u1EEF"
+      - "\u0E16\u0E37\u0E2D\u0E21\u0E31\u0E19\u0E44\u0E27\u0E49"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP ON THE SCREEN
+      TermType: 0
+      Description: 
+      Languages:
+      - Ekrana Dokunun
+      - Tap On The Screen
+      - Toque En La Pantalla
+      - Tippen Sie Auf Den Bildschirm
+      - "Taper Sur L'\xE9cran"
+      - "\u0627\u0636\u063A\u0637 \u0639\u0644\u0649 \u0627\u0644\u0634\u0627\u0634\u0629"
+      - "Tryk P\xE5 Sk\xE6rmen"
+      - Tik Op Het Scherm
+      - "\u70B9\u51FB\u5C4F\u5E55"
+      - "Klepn\u011Bte Na Obrazovku"
+      - Dodirnite Ekran
+      - Kucnite Na Ekran
+      - "Napauta N\xE4ytt\xF6\xE4"
+      - "\u03A0\u03B1\u03C4\u03AE\u03C3\u03C4\u03B5 \u03A3\u03C4\u03B7\u03BD \u039F\u03B8\u03CC\u03BD\u03B7"
+      - "\u0AB8\u0ACD\u0A95\u0ACD\u0AB0\u0AC0\u0AA8 \u0AAA\u0AB0 \u0A9F\u0AC7\u0AAA
+        \u0A95\u0AB0\u0ACB"
+      - "\u0938\u094D\u0915\u094D\u0930\u0940\u0928 \u092A\u0930 \u091F\u0948\u092A
+        \u0915\u0930\u0947\u0902"
+      - "\xC9rintse Meg A K\xE9perny\u0151t"
+      - Tocca Lo Schermo
+      - "\u753B\u9762\u3092\u30BF\u30C3\u30D7\u3057\u307E\u3059"
+      - "\uD654\uBA74\uC744 \uD0ED"
+      - "\u70B9\u51FB\u5C4F\u5E55"
+      - Ketuk Di Layar
+      - "Trykk P\xE5 Skjermen"
+      - "Tryck P\xE5 Sk\xE4rmen"
+      - "\u10E8\u10D4\u10D4\u10EE\u10D4\u10D7 \u10D4\u10D9\u10E0\u10D0\u10DC\u10E1"
+      - "\u05D4\u05E7\u05E9 \u05E2\u05DC \u05D4\u05DE\u05E1\u05DA"
+      - Dotknij Ekranu
+      - Toque Na Tela
+      - Toque Na Tela
+      - "Pieskarieties Ekr\u0101nam"
+      - "\u0631\u0648\u06CC \u0635\u0641\u062D\u0647 \u0636\u0631\u0628\u0647 \u0628\u0632\u0646\u06CC\u062F"
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u041D\u0430 \u042D\u043A\u0440\u0430\u043D"
+      - "\u041A\u0443\u0446\u043D\u0438\u0442\u0435 \u041D\u0430 \u0415\u043A\u0440\u0430\u043D"
+      - "Ch\u1EA1m V\xE0o M\xE0n H\xECnh"
+      - "\u0E2A\u0E31\u0E21\u0E1C\u0E31\u0E2A\u0E2B\u0E19\u0E49\u0E32\u0E08\u0E2D"
+      Flags: 0000000000000000000000000000000000000000000000000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: '-'
+    mLanguages:
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: Arabic
+      Code: ar
+      Flags: 0
+    - Name: Danish
+      Code: da
+      Flags: 0
+    - Name: Dutch
+      Code: nl
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    - Name: Czech
+      Code: cs
+      Flags: 0
+    - Name: Croatian
+      Code: hr
+      Flags: 0
+    - Name: Bosnian
+      Code: bs
+      Flags: 0
+    - Name: Finnish
+      Code: fi
+      Flags: 0
+    - Name: Greek
+      Code: el
+      Flags: 0
+    - Name: Gujarati
+      Code: gu
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Hungarian
+      Code: hu
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Norwegian
+      Code: nb
+      Flags: 0
+    - Name: Swedish
+      Code: sv
+      Flags: 0
+    - Name: Georgian
+      Code: ka
+      Flags: 0
+    - Name: Hebrew
+      Code: he
+      Flags: 0
+    - Name: Polish
+      Code: pl
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Portuguese (Brazil)
+      Code: pt-BR
+      Flags: 0
+    - Name: Latvian
+      Code: lv
+      Flags: 0
+    - Name: Persian
+      Code: fa
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Serbian
+      Code: sr
+      Flags: 0
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 1
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbz9LTf7RXAIj6BYPCEQXLk2gVC3M4sNPMxwqjR3oQ/exec
+    Google_SpreadsheetKey: 1oaBDhUcw4x9QrsM8ebaI3FwbG-r_7JLb-lDItr8Suqw
+    Google_SpreadsheetName: I2Loc Template Localization
+    Google_LastUpdatedVersion: 1644081498783
+    Google_Password: Dumbbell1234
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: 7262db62650fa58419a71d9476575b7b, type: 2}
+    - {fileID: 11400000, guid: 422dd86a72b5fe44f8b5faeedbb0e068, type: 2}
+    - {fileID: 11400000, guid: 60f4c1fdc267f314fa16735614475adc, type: 2}
+    - {fileID: 11400000, guid: ee80c5b0cd0d9c84895228d39ad956fd, type: 2}
+    - {fileID: 11400000, guid: b433dc5275aa9e74993dc85dcc103fd6, type: 2}
+    - {fileID: 11400000, guid: b96e80b79f708734292ad815d360fe80, type: 2}
+    - {fileID: 11400000, guid: 689605089f96ecc47bf87596716d8716, type: 2}
+    - {fileID: 11400000, guid: efcba0e4bfda0184eab6549446714912, type: 2}
+    - {fileID: 11400000, guid: cd95f581d87610946bc8a358bc048e98, type: 2}
+    - {fileID: 11400000, guid: 5f58c05479cb14f588efcdfcbdab347c, type: 2}
+    - {fileID: 11400000, guid: 512fe24a9b50c25438c54dd8e93f79a9, type: 2}
+    - {fileID: 11400000, guid: 8743ea39473062947bdb8e9a2c2e5e9f, type: 2}
+    - {fileID: 11400000, guid: b14a15e29c0fdd1459be75182c72bda1, type: 2}
+    - {fileID: 11400000, guid: 76473999a50bf304aa966887713a37f6, type: 2}
+    - {fileID: 11400000, guid: 4ae28b10226322e408a1277d867e8e68, type: 2}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
